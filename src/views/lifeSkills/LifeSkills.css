@@ -1,0 +1,9 @@
+.LifeSkills {
+    height: 100%;
+    width: 100%;
+}
+.formArea {
+    height: 100%;
+    padding: 20px;
+    border-right: 1px solid #cccccc;
+}

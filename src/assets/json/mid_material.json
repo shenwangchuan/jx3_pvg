@@ -1,0 +1,16 @@
+[
+{"id":"1","name":"药膏","code":"yaogao","energy":"20","count":"2.5"},
+{"id":"2","name":"卤料","code":"luliao","energy":"20","count":"2.5"},
+{"id":"3","name":"蜀染布","code":"shuranbu","energy":"20","count":"2.5"},
+{"id":"4","name":"五色石","code":"wuseshi","energy":"20","count":"2.5"},
+{"id":"5","name":"银丝锻","code":"yinsiduan","energy":"20","count":"2.5"},
+{"id":"6","name":"七彩线","code":"qicaixian","energy":"20","count":"2.5"},
+{"id":"7","name":"熟铁锭","code":"shutieding","energy":"20","count":"2.5"},
+{"id":"8","name":"密银锭","code":"miyinding","energy":"20","count":"2.5"},
+{"id":"9","name":"镔铁锭","code":"bintieding","energy":"20","count":"2.5"},
+{"id":"10","name":"青铜锭","code":"qingtongding","energy":"20","count":"2.5"},
+{"id":"11","name":"黄铜锭","code":"huangtongding","energy":"20","count":"2.5"},
+{"id":"12","name":"生铁锭","code":"shengtieding","energy":"20","count":"2.5"},
+{"id":"13","name":"铅锭","code":"qianding","energy":"20","count":"2.5"},
+{"id":"14","name":"锡锭","code":"xiding","energy":"20","count":"2.5"}
+]

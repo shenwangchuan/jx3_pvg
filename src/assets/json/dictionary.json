@@ -1,0 +1,13 @@
+[
+    {"id":"level0","code":"white","name":"白色","type":"LEVEL"},
+    {"id":"level1","code":"green","name":"绿色","type":"LEVEL"},
+    {"id":"level2","code":"blue","name":"蓝色","type":"LEVEL"},
+    {"id":"level3","code":"purple","name":"紫色","type":"LEVEL"},
+    {"id":"skill1","code":"duanzao","name":"锻造","type":"SKILL"},
+    {"id":"skill2","code":"yishu","name":"医术","type":"SKILL"},
+    {"id":"skill3","code":"pengren","name":"烹饪","type":"SKILL"},
+    {"id":"skill4","code":"fengren","name":"缝纫","type":"SKILL"},
+    {"id":"origin1","code":"0","name":"商人","type":"ORIGIN"},
+    {"id":"origin2","code":"1","name":"采集","type":"ORIGIN"},
+    {"id":"origin3","code":"2","name":"中间材料","type":"ORIGIN"}
+    ]
