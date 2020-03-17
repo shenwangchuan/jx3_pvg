@@ -47,25 +47,15 @@ class SearchForm extends React.Component<IProps, IState> {
     }
     render() {
         const { getFieldDecorator } = this.props.form;
-        // 表单控件布局
-        const formItemLayout = {
-            labelCol: {
-                xs: { span: 24 },
-                sm: { span: 5 },
-            },
-            wrapperCol: {
-                xs: { span: 24 },
-                sm: { span: 19 },
-            },
-        };
+    
         return (
-            <Form {...formItemLayout} onSubmit={this.handleSubmit}>
+            <Form layout="inline" onSubmit={this.handleSubmit}>
                 <Form.Item label="名称：">
                     {getFieldDecorator('name', {})(
                         <Input placeholder="请输入"></Input>
                     )}
                 </Form.Item>
-                <Form.Item label="品质">
+                {/* <Form.Item label="品质">
                     {getFieldDecorator('level', {})(
                         <Select>
                             {getOptions('LEVEL')}
@@ -78,7 +68,7 @@ class SearchForm extends React.Component<IProps, IState> {
                             {getOptions('SKILL')}
                         </Select>
                     )}
-                </Form.Item>
+                </Form.Item> */}
                 <Form.Item label="中间物">
                     {getFieldDecorator('isMid', {
                         initialValue: false,
